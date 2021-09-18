@@ -1,0 +1,59 @@
+.header {
+  background-color: #5e87af;
+  color: white;
+  font-size: 3em;
+  padding: 10px;
+  text-align: center;
+  font-family: Arvo;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7ab3ca;
+  font-family: "Montserrat", sans-serif;
+}
+
+.main {
+  background-color: white;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+.active {
+  background-color: #71a6bb;
+}
+
+p {
+  margin: 0px 25px 10px 25px;
+}
+
+img {
+  width: 75%;
+}
+
+body {
+  margin: 0% 5% 5%;
+  background-color: rgba(173, 173, 173, 0.096);
+  background-image: url(science.jpg);
+}
+
+* {
+  /*font-family: tba */
+  margin: 0;
+  padding: 0;
+}
